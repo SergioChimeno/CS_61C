@@ -1,5 +1,0 @@
-cnn
-cnnModule.so
-test/out/*
-data/*
-web/cifar10/*.png
